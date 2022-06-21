@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744679283336",
+    "project_id": "inses-8f4cf",
+    "storage_bucket": "inses-8f4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744679283336:android:11e541bc74355d971cdd3d",
+        "android_client_info": {
+          "package_name": "com.spiderlingz.inses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744679283336-j2vn8ub77dflakhmketb9f1prp6j43ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFq4_IBWcQStX_LTy8EGf-PZVIBghDEPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744679283336-j2vn8ub77dflakhmketb9f1prp6j43ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
